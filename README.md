@@ -1,1 +1,1 @@
-# color-api
+# COLOR API
